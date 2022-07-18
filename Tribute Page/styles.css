@@ -1,0 +1,63 @@
+  body {
+    font-family: 'Roboto';
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: rgb(5, 4, 4);
+    margin: 0;
+  }
+  
+  h1 {
+    margin-bottom: 0;
+  }
+  
+  a {
+    color: #3e24eb;
+  }
+  
+  a:visited {
+    color: #810677;
+  }
+  
+  main {
+    margin: 50px 50px;
+    padding: 25px;
+    border-radius: 10px;
+    background: rgb(177, 218, 221);
+  }
+  
+  img {
+    max-width: 35%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  figure {
+    background: white;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  figcaption {
+    margin: 15px;
+  }
+  
+  #headline {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 750px;
+    margin: 50px auto;
+    text-align: left;
+  }
+  
+  li {
+    margin: 20px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+  }
